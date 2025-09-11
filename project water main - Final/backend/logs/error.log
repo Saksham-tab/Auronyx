@@ -1,0 +1,233 @@
+2025-09-09 14:55:30:5530 error: Device status check error: F05C0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+MongoServerSelectionError: F05C0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+    at Topology.selectServer (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\sdam\topology.js:326:38)
+    at async tryOperation (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\operations\execute_operation.js:145:18)
+    at async executeOperation (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\operations\execute_operation.js:75:16)
+    at async FindCursor._initialize (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\find_cursor.js:61:26)
+    at async FindCursor.cursorInit (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+    at async [Symbol.asyncIterator] (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:250:34)
+    at async FindCursor.toArray (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:422:26)
+    at async model.Query._find (C:\Users\ms\Desktop\project water main\backend\node_modules\mongoose\lib\query.js:2430:14)
+2025-09-09 15:00:30:030 error: Device status check error: F05C0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+MongoServerSelectionError: F05C0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+    at Topology.selectServer (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\sdam\topology.js:326:38)
+    at async tryOperation (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\operations\execute_operation.js:145:18)
+    at async executeOperation (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\operations\execute_operation.js:75:16)
+    at async FindCursor._initialize (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\find_cursor.js:61:26)
+    at async FindCursor.cursorInit (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+    at async [Symbol.asyncIterator] (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:250:34)
+    at async FindCursor.toArray (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:422:26)
+    at async model.Query._find (C:\Users\ms\Desktop\project water main\backend\node_modules\mongoose\lib\query.js:2430:14)
+2025-09-09 15:05:30:530 error: Device status check error: F05C0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+MongoServerSelectionError: F05C0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+    at Topology.selectServer (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\sdam\topology.js:326:38)
+    at async tryOperation (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\operations\execute_operation.js:145:18)
+    at async executeOperation (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\operations\execute_operation.js:75:16)
+    at async FindCursor._initialize (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\find_cursor.js:61:26)
+    at async FindCursor.cursorInit (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+    at async [Symbol.asyncIterator] (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:250:34)
+    at async FindCursor.toArray (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:422:26)
+    at async model.Query._find (C:\Users\ms\Desktop\project water main\backend\node_modules\mongoose\lib\query.js:2430:14)
+2025-09-09 15:10:30:1030 error: Device status check error: F05C0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+MongoServerSelectionError: F05C0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+    at Topology.selectServer (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\sdam\topology.js:326:38)
+    at async tryOperation (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\operations\execute_operation.js:145:18)
+    at async executeOperation (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\operations\execute_operation.js:75:16)
+    at async FindCursor._initialize (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\find_cursor.js:61:26)
+    at async FindCursor.cursorInit (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+    at async [Symbol.asyncIterator] (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:250:34)
+    at async FindCursor.toArray (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:422:26)
+    at async model.Query._find (C:\Users\ms\Desktop\project water main\backend\node_modules\mongoose\lib\query.js:2430:14)
+2025-09-09 15:15:30:1530 error: Device status check error: F05C0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+MongoServerSelectionError: F05C0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+    at Topology.selectServer (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\sdam\topology.js:326:38)
+    at async tryOperation (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\operations\execute_operation.js:145:18)
+    at async executeOperation (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\operations\execute_operation.js:75:16)
+    at async FindCursor._initialize (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\find_cursor.js:61:26)
+    at async FindCursor.cursorInit (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+    at async [Symbol.asyncIterator] (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:250:34)
+    at async FindCursor.toArray (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:422:26)
+    at async model.Query._find (C:\Users\ms\Desktop\project water main\backend\node_modules\mongoose\lib\query.js:2430:14)
+2025-09-09 15:20:30:2030 error: Device status check error: F05C0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+MongoServerSelectionError: F05C0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+    at Topology.selectServer (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\sdam\topology.js:326:38)
+    at async tryOperation (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\operations\execute_operation.js:145:18)
+    at async executeOperation (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\operations\execute_operation.js:75:16)
+    at async FindCursor._initialize (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\find_cursor.js:61:26)
+    at async FindCursor.cursorInit (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+    at async [Symbol.asyncIterator] (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:250:34)
+    at async FindCursor.toArray (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:422:26)
+    at async model.Query._find (C:\Users\ms\Desktop\project water main\backend\node_modules\mongoose\lib\query.js:2430:14)
+2025-09-09 15:25:30:2530 error: Device status check error: F05C0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+MongoServerSelectionError: F05C0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 80
+
+    at Topology.selectServer (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\sdam\topology.js:326:38)
+    at async tryOperation (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\operations\execute_operation.js:145:18)
+    at async executeOperation (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\operations\execute_operation.js:75:16)
+    at async FindCursor._initialize (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\find_cursor.js:61:26)
+    at async FindCursor.cursorInit (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+    at async [Symbol.asyncIterator] (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:250:34)
+    at async FindCursor.toArray (C:\Users\ms\Desktop\project water main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:422:26)
+    at async model.Query._find (C:\Users\ms\Desktop\project water main\backend\node_modules\mongoose\lib\query.js:2430:14)
+2025-09-09 15:28:42:2842 error: Uncaught Exception: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (C:\Users\ms\Desktop\project water main\backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\ms\Desktop\project water main\backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\ms\Desktop\project water main\backend\node_modules\express\lib\response.js:278:15)
+    at ChildProcess.<anonymous> (C:\Users\ms\Desktop\project water main\backend\routes\ai.js:470:32)
+    at ChildProcess.emit (node:events:518:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:304:5)
+2025-09-09 23:21:46:2146 error: Direct LLM chat failed:
+2025-09-09 23:21:47:2147 error: HuggingFace API error:
+2025-09-09 23:22:01:221 error: Direct LLM chat failed:
+2025-09-09 23:22:02:222 error: HuggingFace API error:
+2025-09-09 23:22:19:2219 error: Direct LLM chat failed:
+2025-09-09 23:22:19:2219 error: HuggingFace API error:
+2025-09-09 23:23:53:2353 error: Direct LLM chat failed:
+2025-09-09 23:23:54:2354 error: HuggingFace API error:
+2025-09-09 23:24:08:248 error: Direct LLM chat failed:
+2025-09-09 23:24:08:248 error: HuggingFace API error:
+2025-09-09 23:24:44:2444 error: Direct LLM chat failed:
+2025-09-09 23:24:44:2444 error: HuggingFace API error:
+2025-09-10 00:08:10:810 error: Direct LLM chat failed:
+2025-09-10 00:08:11:811 error: HuggingFace API error:
+2025-09-10 00:10:17:1017 error: Direct LLM chat failed:
+2025-09-10 00:10:17:1017 error: HuggingFace API error:
+2025-09-11 01:55:06:556 error: Uncaught Exception: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:278:15)
+    at ChildProcess.<anonymous> (C:\Users\ms\Desktop\project water main - Copy\backend\routes\ai.js:470:32)
+    at ChildProcess.emit (node:events:518:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:304:5)
+2025-09-11 01:55:06:556 error: Uncaught Exception: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:278:15)
+    at ChildProcess.<anonymous> (C:\Users\ms\Desktop\project water main - Copy\backend\routes\ai.js:470:32)
+    at ChildProcess.emit (node:events:518:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:304:5)
+2025-09-11 01:57:02:572 error: Uncaught Exception: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:278:15)
+    at ChildProcess.<anonymous> (C:\Users\ms\Desktop\project water main - Copy\backend\routes\ai.js:470:32)
+    at ChildProcess.emit (node:events:518:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:304:5)
+2025-09-11 01:57:02:572 error: Uncaught Exception: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:278:15)
+    at ChildProcess.<anonymous> (C:\Users\ms\Desktop\project water main - Copy\backend\routes\ai.js:470:32)
+    at ChildProcess.emit (node:events:518:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:304:5)
+2025-09-11 01:57:23:5723 error: Uncaught Exception: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:278:15)
+    at ChildProcess.<anonymous> (C:\Users\ms\Desktop\project water main - Copy\backend\routes\ai.js:470:32)
+    at ChildProcess.emit (node:events:518:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:304:5)
+2025-09-11 01:57:23:5723 error: Uncaught Exception: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:278:15)
+    at ChildProcess.<anonymous> (C:\Users\ms\Desktop\project water main - Copy\backend\routes\ai.js:470:32)
+    at ChildProcess.emit (node:events:518:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:304:5)
+2025-09-11 01:57:26:5726 error: Uncaught Exception: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:278:15)
+    at ChildProcess.<anonymous> (C:\Users\ms\Desktop\project water main - Copy\backend\routes\ai.js:470:32)
+    at ChildProcess.emit (node:events:518:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:304:5)
+2025-09-11 01:57:29:5729 error: Uncaught Exception: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:278:15)
+    at ChildProcess.<anonymous> (C:\Users\ms\Desktop\project water main - Copy\backend\routes\ai.js:470:32)
+    at ChildProcess.emit (node:events:518:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:304:5)
+2025-09-11 15:16:44:1644 error: Uncaught Exception: listen EADDRINUSE: address already in use :::5001
+Error: listen EADDRINUSE: address already in use :::5001
+    at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+    at listenInCluster (node:net:1996:12)
+    at Server.listen (node:net:2101:7)
+    at startServer (C:\Users\ms\Desktop\project water main - Copy\backend\server.js:167:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-09-11 15:17:41:1741 error: Uncaught Exception: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:278:15)
+    at ChildProcess.<anonymous> (C:\Users\ms\Desktop\project water main - Copy\backend\routes\ai.js:470:32)
+    at ChildProcess.emit (node:events:518:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at Socket.<anonymous> (node:internal/child_process:456:11)
+    at Socket.emit (node:events:518:28)
+    at Pipe.<anonymous> (node:net:351:12)
+2025-09-11 15:17:41:1741 error: Uncaught Exception: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\ms\Desktop\project water main - Copy\backend\node_modules\express\lib\response.js:278:15)
+    at ChildProcess.<anonymous> (C:\Users\ms\Desktop\project water main - Copy\backend\routes\ai.js:470:32)
+    at ChildProcess.emit (node:events:518:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:304:5)

@@ -1,0 +1,27 @@
+# Core AI and ML dependencies
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+
+# Data processing
+pandas
+numpy
+
+# Database
+pymongo
+
+# Environment and utilities
+python-dotenv
+
+# PDF processing
+PyPDF2
+
+# HuggingFace
+transformers
+torch
+tokenizers
+
+# Optional: For better performance
+accelerate

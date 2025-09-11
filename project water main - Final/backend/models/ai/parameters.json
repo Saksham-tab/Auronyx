@@ -1,0 +1,8 @@
+{
+  "Bhind": "pH: 7.1, TDS: 480 ppm, Hardness: 280 mg/L, Turbidity: 2.8 NTU, Temperature: 24°C",
+  "Bhopal": "pH: 7.3, TDS: 350 ppm, Hardness: 220 mg/L, Turbidity: 1.9 NTU, Temperature: 23°C",
+  "Gwalior": "pH: 7.0, TDS: 420 ppm, Hardness: 310 mg/L, Turbidity: 2.5 NTU, Temperature: 25°C",
+  "Hoshangabad": "pH: 6.9, TDS: 390 ppm, Hardness: 260 mg/L, Turbidity: 3.2 NTU, Temperature: 24°C",
+  "Indore": "pH: 7.2, TDS: 320 ppm, Hardness: 180 mg/L, Turbidity: 2.1 NTU, Temperature: 22°C",
+  "Morena": "pH: 7.4, TDS: 510 ppm, Hardness: 340 mg/L, Turbidity: 2.7 NTU, Temperature: 26°C"
+}
